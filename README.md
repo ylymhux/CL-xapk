@@ -9,3 +9,5 @@
 先安装Split APKs Installer然后找到cl软件的xapk包，把后缀xapk改成zip,然后解压缩，你能得到一个文件夹，里面是一堆apk包。
 记住这个文件夹，然后打开Split APKs Installer。
 在这个软件里找到这个文件夹，选中所有的apk包，安装，就可以正常安装了。
+
+PS:绿色code按钮里下载
